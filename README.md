@@ -10,67 +10,64 @@ Currently a **Junior Developer in Tokyo**, I see software not just as code, but 
 
 ## 💻 Skills & Toolbox  
 
-![Skills](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)  
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)  
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)  
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)  
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+
+### 🖥 Languages  
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
 
 ### 🌐 Web Development  
-![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Frontend-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Backend-Express-000000?style=flat&logo=express&logoColor=white)  
-
-### 🗄 Databases  
-![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/DB-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-
-### ⚙️ DevOps & Cloud  
-![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)  
-![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
 
 ---
 
 ## 📈 Career Snapshot  
 
-![Career](https://img.shields.io/badge/Career-Path-blueviolet?style=for-the-badge&logo=target&logoColor=white)
+<img align="right" alt="Career Progress" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360"/>
 
 - 🎓 **Bachelor’s in Computer Science** – University in Japan  
 - 💼 **Internships** – Web development & backend systems at startups  
 - 🏢 **Current Role** – Junior software developer in Tokyo, building **modern web apps & APIs**  
-- 🌱 **Learning Now** – Cloud infrastructure (AWS, serverless) · Advanced TypeScript · AI-assisted dev workflows  
+- 🌱 **Learning Now** –  
+  - Cloud infrastructure (AWS, serverless)  
+  - Advanced TypeScript & design patterns  
+  - AI-assisted workflows (GitHub Copilot, LLMs)  
 
 ---
 
 ## 🎯 Goals  
 
-![Goals](https://img.shields.io/badge/Goals-In%20Progress-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+<img align="right" alt="Rocket Animation" src="https://media.giphy.com/media/2wh22XxkJY1BLf2wAq/giphy.gif" width="300"/>
 
-- 🚀 Grow into a **full-stack engineer** capable of leading projects end-to-end  
-- 🛡 Explore **cybersecurity & secure coding practices** for safer apps  
-- 🌍 Collaborate globally and **contribute to open source communities**  
-- 🛠 Build tools & platforms that make people’s lives **simpler, faster, and more enjoyable**  
-- 🤝 Mentor junior developers & share knowledge  
+- 🚀 Become a **full-stack engineer** leading projects end-to-end  
+- 🛡 Strengthen **cybersecurity & secure coding practices**  
+- 🌍 **Contribute to open source** and collaborate worldwide  
+- 🛠 Build tools & platforms that **simplify daily life**  
+- 🤝 Mentor future developers  
 
 ---
 
 ## 🌟 What I Value  
 
-![Values](https://img.shields.io/badge/Values-Teamwork%20%7C%20Quality%20%7C%20Curiosity-ff69b4?style=for-the-badge)
+<img align="right" alt="Thinking GIF" src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300"/>
 
-✅ **Code quality** over shortcuts – reliability, maintainability, scalability  
-✅ **Team collaboration** – working together is more powerful than working alone  
-✅ **Continuous learning** – technology never stops, and neither should I  
-✅ **Creativity & curiosity** – blending engineering with imagination  
+✅ **Code quality** – reliable, maintainable, scalable  
+✅ **Team collaboration** – teamwork > solo work  
+✅ **Continuous learning** – never stop growing  
+✅ **Creativity & curiosity** – blend engineering with imagination  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
+<img align="right" alt="Coding Cat" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
 
 ---
@@ -84,4 +81,3 @@ Currently a **Junior Developer in Tokyo**, I see software not just as code, but 
 ---
 
 ✨ *“Code is not just about solving problems, but about creating something meaningful for others.”*  
-
