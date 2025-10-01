@@ -1,67 +1,83 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Taro Tanaka</h1>
+# 👨‍💻 Hello World, I’m [Your Name]  
 
-<!--
-**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
+こんにちは! 🇯🇵  
+I’m a **23-year-old software developer from Japan**, passionate about crafting clean, scalable, and user-friendly applications.  
+My journey started at university, where I majored in **Computer Science** with a focus on **software engineering and web technologies**. Since then, I’ve been sharpening my skills through **internships, personal projects, and my current role as a Junior Developer at a tech company in Tokyo**.  
 
-<div align="center">
-  <img src ="./banner.png" />
-  
-</div>
+I see software not just as code, but as a way to **connect people, solve real-world problems, and create meaningful digital experiences**.  
 
- <br/>
+---
 
-## 👨🏻‍💻 About Me:
+## 💻 Skills & Toolbox  
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+### 🖥 Languages  
+- JavaScript / **TypeScript**  
+- Python  
+- Java  
+- Go  
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
+### 🌐 Web Development  
+- **React, Next.js** (modern frontend)  
+- Node.js, Express  
+- REST APIs, GraphQL  
+- Responsive & accessible UI/UX design  
 
-- 🔭 I’m currently working on `Something Intresting`.
+### 🗄 Databases  
+- MySQL, PostgreSQL  
+- MongoDB  
 
-- 🌱 I’m currently learning `MERN Stack`
+### ⚙️ DevOps & Cloud  
+- Docker, GitHub Actions, Linux  
+- AWS (EC2, S3, Lambda basics)  
+- CI/CD pipelines  
+- Cloud-native fundamentals  
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+### 🔐 Additional Interests  
+- **System architecture & design patterns**  
+- **DevSecOps & application security**  
+- Open-source contribution  
+- UI/UX aesthetics & human-centered design  
 
-- 🤔 I’m looking for help with `Competitive Programming`
+---
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+## 📈 Career Snapshot  
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+🎓 **Bachelor’s in Computer Science** – University in Japan  
+💼 **Internships** – Web development & backend systems at startups  
+🏢 **Current Role** – Junior software developer in Tokyo, building **modern web apps & APIs**  
+🌱 **Learning Now** –  
+- Cloud infrastructure (AWS, serverless)  
+- Advanced TypeScript & design patterns  
+- AI-assisted development workflows (Copilot, LLMs)  
+- Contributions to open source  
 
-- ⚡ Fun fact: I waste most of my time playing games
+---
 
-## 🛠️ Technologies and Tools I use:
+## 🎯 Goals  
 
-<p>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
-</p>
+- 🚀 Grow into a **full-stack engineer** capable of leading projects end-to-end  
+- 🛡 Explore **cybersecurity & secure coding practices** for safer apps  
+- 🌍 Collaborate globally and **contribute to open source communities**  
+- 🛠 Build tools & platforms that make people’s lives **simpler, faster, and more enjoyable**  
+- 🤝 Eventually mentor junior developers and share knowledge back with the community  
 
-## 📊 My GitHub Data:
+---
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
-</div>
+## 🌟 What I Value  
+
+✅ **Code quality** over shortcuts – reliability, maintainability, scalability  
+✅ **Team collaboration** – working together is more powerful than working alone  
+✅ **Continuous learning** – technology never stops, and neither should I  
+✅ **Creativity & curiosity** – blending engineering with imagination  
+
+---
+
+## 📬 Connect with Me  
+
+- 🌐 **GitHub**: [YourUsername]  
+- 💼 **LinkedIn**: [YourLinkedIn]  
+- 🐦 **Twitter/X**: [@YourHandle]  
+
+---
+
+✨ *“Code is not just about solving problems, but about creating something meaningful for others.”*  
