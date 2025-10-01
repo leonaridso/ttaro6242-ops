@@ -10,18 +10,18 @@ Currently a **Junior Developer in Tokyo**, I see software not just as code, but 
 
 ## 💻 Skills & Toolbox  
 
-<img align="right" alt="Cloud Dev GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+<img align="right" alt="Cloud Dev GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="margin-left: 20px; margin-bottom: 20px"/>
 
 ### 🖥 Languages  
-- **JavaScript / TypeScript** (scalable frontend/backend)  
-- Python (automation, AI/ML basics)  
-- Go (performance-focused microservices)  
-- Java (enterprise-grade apps)  
+- **JavaScript / TypeScript** – scalable frontend/backend  
+- Python – automation, AI/ML basics  
+- Go – performance-focused microservices  
+- Java – enterprise-grade apps  
 
 ### 🌐 Web & Ecosystem  
-- **React / Next.js** → modern, SEO-friendly apps  
-- Node.js, Express → API-first development  
-- GraphQL → data-efficient systems  
+- **React / Next.js** – modern, SEO-friendly apps  
+- Node.js, Express – API-first development  
+- GraphQL – data-efficient systems  
 - JAMstack & serverless concepts  
 
 ### ☁️ Cloud & DevOps  
@@ -39,22 +39,22 @@ Currently a **Junior Developer in Tokyo**, I see software not just as code, but 
 
 ## 📈 Career Snapshot  
 
-<img align="right" alt="Career Growth" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="340"/>
+<img align="right" alt="Career Growth" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" style="margin-left: 20px; margin-bottom: 20px"/>
 
 - 🎓 **Bachelor’s in Computer Science** – University in Japan  
 - 💼 **Internships** – Backend & full-stack projects at startups  
 - 🏢 **Current Role** – Junior software developer, working on **scalable web apps & APIs**  
 - 🌱 **Learning Now** –  
-  - **Cloud-native design** (serverless, IaC)  
-  - **AI-assisted dev** (Copilot, LLMs)  
-  - **Advanced TypeScript & system architecture**  
-  - **Cybersecurity essentials**  
+  - Cloud-native design (serverless, IaC)  
+  - AI-assisted dev (Copilot, LLMs)  
+  - Advanced TypeScript & system architecture  
+  - Cybersecurity essentials  
 
 ---
 
 ## 🎯 Goals for the Next Era of IT  
 
-<img align="right" alt="Rocket Animation" src="https://media.giphy.com/media/2wh22XxkJY1BLf2wAq/giphy.gif" width="300"/>
+<img align="right" alt="Rocket Animation" src="https://media.giphy.com/media/2wh22XxkJY1BLf2wAq/giphy.gif" width="260" style="margin-left: 20px; margin-bottom: 20px"/>
 
 - 🚀 Become a **full-stack cloud engineer** capable of delivering end-to-end solutions  
 - 🛡 Adopt **DevSecOps** as a mindset for every project  
@@ -64,33 +64,14 @@ Currently a **Junior Developer in Tokyo**, I see software not just as code, but 
 
 ---
 
-## 🌟 My Core Values in IT  
+## 🌐 Connect  
 
-<img align="right" alt="Thinking Dev" src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300"/>
-
-✅ **Reliability** – code that runs today, tomorrow, and at scale  
-✅ **Security** – prevention built into design, not added later  
-✅ **Collaboration** – stronger together, across borders and cultures  
-✅ **Innovation** – AI, cloud, and design-thinking in practice  
-✅ **Continuous growth** – learning is part of the job  
+<p align="center">
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)  
+</p>
 
 ---
 
-## 📊 GitHub Analytics  
-
-<img align="right" alt="AI Cat" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
-
----
-
-## 📬 Let’s Connect  
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)  
-
----
-
-✨ *“Technology isn’t just about code — it’s about building secure, scalable, and meaningful experiences for people.”*  
+✨ *“Technology isn’t just about code — it’s about building secure, scalable, and meaningful experiences for people.”*
